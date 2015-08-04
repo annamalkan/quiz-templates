@@ -1,0 +1,28 @@
+body {
+	background: #f0ffff;
+	background-image: url("photos/marathon-switzer-apimages.jpg"), url("photos/gertrude-ederle-nydailynews-via-gettyimages.jpeg") ;
+	background-repeat: no-repeat;
+	background-position: center 10px;
+	font: 12pt/1.4 "Roboto", serif;
+	font-weight: 200;
+	max-width: 600px;
+	margin: auto;
+	padding:20px;
+}
+
+h1 {
+	
+	color: white;
+	font: "Roboto", serif;
+	font-size: 26pt;
+	font-weight: 200;
+	margin-bottom: 320px;
+}
+
+
+h2 {
+	font: "Roboto", serif;
+	font-size: 20pt;
+	font-weight: 200;
+
+}
