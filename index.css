@@ -1,22 +1,27 @@
 body {
-	background: #f0ffff;
-	background-image: url("photos/marathon-switzer-apimages.jpg"), url("photos/gertrude-ederle-nydailynews-via-gettyimages.jpeg") ;
-	background-repeat: no-repeat;
-	background-position: center 10px;
+	background: white;
+	opacity: 0.7;
 	font: 12pt/1.4 "Roboto", serif;
-	font-weight: 200;
-	max-width: 600px;
-	margin: auto;
+	font-weight: 300;
+	max-width: 640px;
+	margin: 20px auto;
 	padding:20px;
+}
+html { 
+  background: url(photos/NACW-1946.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 h1 {
 	
-	color: white;
+	color: black;
 	font: "Roboto", serif;
-	font-size: 26pt;
-	font-weight: 200;
-	margin-bottom: 320px;
+	font-size: 30pt;
+	font-weight: 300;
+	margin-bottom: 20px;
 }
 
 #introparagraph {
@@ -28,4 +33,9 @@ h2 {
 	font-size: 20pt;
 	font-weight: 200;
 
+}
+
+.photo_credit {
+	font: "Roboto", serif;
+	font-size:10pt;
 }
